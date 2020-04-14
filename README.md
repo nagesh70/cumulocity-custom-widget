@@ -116,9 +116,17 @@
  
  5. You should now be able to see your Custom Application in App Switcher. Open that Custom Cockpit
  
+ ![CustomApplicationInAppSwitcher] (pics/CustomApplicationInAppSwitcher.PNG)
  
  6. Got to the Dashboard where you want to add your custom widget and click on Add Widget.
  
          You should now see the Custom Dashboard when searched with the Display Name provided above
          
 ![AddWidgetToDashboard](pics/AddWidgetToDashboard.PNG)
+
+ 7. Once added, you will see your custom widget added to your dashboard.
+         
+![AddWidgetToDashboard](pics/AddWidgetToDashboard.PNG)
+
+ 8. DONE
+
