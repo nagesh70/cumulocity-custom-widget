@@ -126,7 +126,7 @@
 
  7. Once added, you will see your custom widget added to your dashboard.
          
-![AddWidgetToDashboard](pics/AddWidgetToDashboard.PNG)
+![CustomWidgetInDashboard](pics/CustomWidgetInDashboard.PNG)
 
  8. DONE
 
