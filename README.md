@@ -5,7 +5,7 @@
 1. Node & NPM
 2. c8y CLI
    
-   npm install -g @c8y/cli
+        npm install -g @c8y/cli
    
 3. This feature is only available in the newer versions of the c8y webSDK (since 10.4.11.0).
 
@@ -17,7 +17,7 @@ Make sure to use python3 and not python 2! Additionally you need to user sudo!
    
    c8ycli new <<name_of_application>> cockpit
    
-   ex:c8ycli new DemoCockpit cockpit
+         ex:c8ycli new DemoCockpit cockpit
    
    We use the webSDK library for Angular to create custom application by providing the cockpit as template to clone.
    
@@ -25,11 +25,11 @@ Make sure to use python3 and not python 2! Additionally you need to user sudo!
     
       cd <<name_of_application>>
       
-      ex: cd democockpit
+            ex: cd democockpit
     
     Now Run NPM install
     
-      npm install
+            npm install
       
    This will install all dependent packages that are needed.
    The new custom cockpit will have all features of default cockpit. Below steps will help create custom widget that you can use
