@@ -1,6 +1,4 @@
-# cumulocity-custom-widget
-
-# Cumulocity Angular Custom Application with Custom Widget Example.
+# Cumulocity Creating Custom Widget in Custom Application using webSDK & Angular 2 and above.
 
 ## Steps to create Custom Application
 
@@ -30,6 +28,13 @@
   
     Add a folder inside your application ex: custom-widgets/demo-widget
     
+    ex: 
+         mkdir custom-widgets
+         
+         cd custom-widgets
+         
+         mkdir demo-widget
+    
 ### We need: 
     Widget Component, 
     Widget Config, 
@@ -41,8 +46,11 @@
        ex: custom-widgets/demo-widget/widget
        
     b. Create three files
+    
           1. html file - to add any inputs that you need for the Widget.
+    
           2. .scss file - for styling.
+          
           3. type script file - a component and logic goes here. Note this will have property @Input() config; that is imported from Angular core.
 
 2. Create Widget Config.
