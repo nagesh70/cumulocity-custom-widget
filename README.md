@@ -121,4 +121,4 @@
  
          You should now see the Custom Dashboard when searched with the Display Name provided above
          
-         ![AddWidget](pics/AddWidgetToDashboard.PNG)
+![AddWidgetToDashboard](pics/AddWidgetToDashboard.PNG)
