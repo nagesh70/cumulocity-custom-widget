@@ -116,7 +116,7 @@
  
  5. You should now be able to see your Custom Application in App Switcher. Open that Custom Cockpit
  
- ![CustomApplicationInAppSwitcher] (pics/CustomApplicationInAppSwitcher.PNG)
+ ![CustomApplicationInAppSwitcher](pics/CustomApplicationInAppSwitcher.PNG)
  
  6. Got to the Dashboard where you want to add your custom widget and click on Add Widget.
  
