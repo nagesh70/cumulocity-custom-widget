@@ -105,3 +105,20 @@
             description: 'Demo Custom Widget',
             component: WidgetDemo,                         
             configComponent: WidgetConfigDemo,
+          }
+        }],
+ 
+ 4. Build and Deploy
+      
+         c8ycli build
+      
+         c8ycli deploy
+ 
+ 5. You should now be able to see your Custom Application in App Switcher. Open that Custom Cockpit
+ 
+ 
+ 6. Got to the Dashboard where you want to add your custom widget and click on Add Widget.
+ 
+         You should now see the Custom Dashboard when searched with the Display Name provided above
+         
+         ![AddWidget](pics/AddWidgetToDashboard.PNG)
