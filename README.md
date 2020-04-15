@@ -1,4 +1,4 @@
-# Cumulocity Creating Custom Widget in Custom Application using webSDK & Angular 2 and above.
+# How to Create Custom Widget in a Custom Application using webSDK & Angular 2 and above.
 
 ### Prerequisites
 
