@@ -152,13 +152,29 @@ Make sure to use python3 and not python 2! Additionally you need to user sudo!
                <c8y-form-group>
                   <label translate>Label Name</label>
                   <textarea style="width:100%" [(ngModel)]="config.lableType"></textarea>
+                  
+                  <label translate>Label Dropdown</label>
+                  <select name="groupType" [(ngModel)]="config.labelGroup">
+                     <option *ngFor="let c of labelGroups" [value]="c.id">{{c.name}}</option>
+                  </select>
                </c8y-form-group>
             </div>
             
-   2. You can now refer and use this data in your custom widget type script code, as below
+   2. For drop-down values labelGroups, add property in the typescript file of the Widget Configuration
+   
+            labelGroups = [
+               {id: 1, name: "One"},
+               {id: 2, name: "Two"}
+            ];
+   
+   3.You can now refer and use this data in your custom widget type script code, as below
    
             this.config.lableType
+            this.config.labelGroup
 
+   You can see the input in the custom widget configuration screen
+   
+![ConfigInput](pics/ConfigInput.PNG)
 
 ## Fetch device id where this widget & dashboard is created
 
