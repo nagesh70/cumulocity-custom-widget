@@ -1,0 +1,11 @@
+<div class="form-group">
+    <c8y-form-group>
+       <label translate>Label Name</label>
+       <textarea style="width:100%" [(ngModel)]="config.lableType"></textarea>
+
+       <label translate>Label Dropdown</label>
+       <select name="groupType" [(ngModel)]="config.labelGroup">
+        <option *ngFor="let c of labelGroups" [value]="c.id">{{c.name}}</option>
+     </select>
+    </c8y-form-group>
+ </div>
