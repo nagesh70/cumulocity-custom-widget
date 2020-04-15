@@ -142,9 +142,9 @@ Make sure to use python3 and not python 2! Additionally you need to user sudo!
  8. DONE
 
 
-## How TODO
+## How TO DO
 
-### Add input fields to the widget configuration
+### How to Add input fields to the custom widget configuration window
 
    1. Update the html file in the configuration file as below
          
@@ -176,7 +176,7 @@ Make sure to use python3 and not python 2! Additionally you need to user sudo!
    
 ![ConfigInput](pics/ConfigInput.PNG)
 
-## Fetch device id where this widget & dashboard is created
+## How to get device id where this widget & dashboard is used / created
 
    You can fetch the details using.
       
