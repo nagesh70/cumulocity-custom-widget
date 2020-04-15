@@ -9,7 +9,7 @@
    
 3. This feature is only available in the newer versions of the c8y webSDK (since 10.4.11.0).
 
-Make sure to use python3 and not python 2! Additionally you need to user sudo!
+democokpit - is custom application with custom widget example to test/refer.
 
 ## Steps to create Custom Application
 
