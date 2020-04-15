@@ -182,4 +182,4 @@ democokpit - is custom application with custom widget example to test/refer.
       
          this.config.device.id
          
-   Note: This is used to get mangedObject Id of both Device and Group.
+   Note: This is used to get mangedObject Id of both Device or Group depending on where this dashboard/widget is created/added.
