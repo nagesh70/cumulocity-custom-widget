@@ -11,7 +11,7 @@
 
 democokpit - is custom application with custom widget example to test/refer.
 
-## Steps to create Custom Application
+## Steps to create Custom Cockpit Application
 
 1. Create Custom Application by cloning default cockpit
    
